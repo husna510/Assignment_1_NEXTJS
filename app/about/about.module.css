@@ -1,0 +1,19 @@
+.container {
+    color: #2c3e50; 
+    background-color: #ecf0f1;
+    padding: 20px;
+  }
+  
+  .header {
+    color: #2980b9; 
+    background-color: #bdc3c7; 
+    font-size: 24px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .content {
+    font-size: 18px;
+    color: #34495e; 
+  }
+  
